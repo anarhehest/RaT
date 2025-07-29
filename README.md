@@ -4,6 +4,8 @@
 
 [Неудачи](https://github.com/anarhehest/RaT/blob/master/rhymes/unfortunes.txt)
 
+[Pluck](https://github.com/anarhehest/RaT/blob/master/rhymes/pluck.txt)
+
 # Что-то похожее на философию
 
 [Взгляд на сингулярность](https://github.com/anarhehest/RaT/blob/master/thoughts/singularity.txt)
