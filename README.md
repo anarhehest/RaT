@@ -10,6 +10,10 @@
 
 [Постмортем](https://github.com/anarhehest/RaT/blob/master/rhymes/postmortem.txt)
 
+[А сна всё нет](https://github.com/anarhehest/RaT/blob/master/rhymes/no_sleep.txt)
+
 # Что-то похожее на философию
 
 [Взгляд на сингулярность](https://github.com/anarhehest/RaT/blob/master/thoughts/singularity.txt)
+
+[5 уроков](https://github.com/anarhehest/RaT/blob/master/thoughts/5_lessons.txt)
