@@ -12,6 +12,8 @@
 
 [А сна всё нет](https://github.com/anarhehest/RaT/blob/master/rhymes/no_sleep.txt)
 
+[Moonwork](https://github.com/anarhehest/RaT/blob/master/rhymes/moonwork.txt)
+
 # Что-то похожее на философию
 
 [Взгляд на сингулярность](https://github.com/anarhehest/RaT/blob/master/thoughts/singularity.txt)
